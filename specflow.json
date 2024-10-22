@@ -1,0 +1,12 @@
+{
+    "specflow": {
+      "unitTestProvider": {
+        "name": "NUnit"
+      },
+      "stepAssemblies" : [],
+      "bindingCulture" :{
+        "language" : "en-US"
+      }
+    }
+  }
+  
